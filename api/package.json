@@ -1,0 +1,22 @@
+{
+  "name": "booking-api",
+  "version": "1.0.0",
+  "description": "simple booking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manlikezlatan/codackrepo.git"
+  },
+  "keywords": [
+    "book"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manlikezlatan/codackrepo/issues"
+  },
+  "homepage": "https://github.com/manlikezlatan/codackrepo#readme"
+}
